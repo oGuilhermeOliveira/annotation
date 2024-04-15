@@ -1,4 +1,4 @@
-package br.com.guilhermeoli;
+package br.com.guilhermeoli.anotacao;
 
 /**
  * @author guiol
